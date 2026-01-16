@@ -10,3 +10,11 @@ permutations, etc.
  - Factorials `n!`
  - Combinations `nCk`
  - Permutations `nPk` - not yet
+
+## TODO
+ - Add `free()` where needed :)
+ - Fix: allow starting with - (minus sign)
+ - Add history
+ - Fix curesor thing
+ - add permutations
+ - ...
